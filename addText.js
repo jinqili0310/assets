@@ -4,4 +4,5 @@ $j(function () {
                 console.log(addText);
                 addText.text("China, QC in the USA");
             })
-        })
+})
+console.log($j(".even").eq(0).get());
